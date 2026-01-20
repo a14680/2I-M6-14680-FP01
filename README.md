@@ -52,11 +52,9 @@ Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no
 - Organização do dashboard  
 
 ### 🔹 Como utilizei a IA
-A IA foi a base para a construção visual da aplicação, transformando um código simples numa interface profissional.
-
-Tive ajuda no SQL para garantir que a base de dados de denúncias comunicava corretamente com a tabela de computadores.
-
-As sugestões da IA serviram como um ponto de partida que foi depois adaptado e personalizado para as necessidades específicas da sala informática.
+- A IA foi a base para a construção visual da aplicação, transformando um código simples numa interface profissional.
+- Tive ajuda no SQL para garantir que a base de dados de denúncias comunicava corretamente com a tabela de computadores.
+- As sugestões da IA serviram como um ponto de partida que foi depois adaptado e personalizado para as necessidades específicas da sala informática.
 
 ---
 
