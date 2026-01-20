@@ -9,16 +9,18 @@
 ---
 
 ## 🎯 Objetivo do Projeto
-Este projeto consiste no desenvolvimento de uma aplicação web para a gestão e consulta de um inventário de computadores de uma sala informática. A aplicação foi desenhada para permitir não só a consulta detalhada das especificações técnicas e do software de cada equipamento, mas também para oferecer um canal direto de denúncia de avarias.
-Desta forma, qualquer utilizador pode reportar problemas técnicos (hardware, software ou rede), permitindo que o estado do computador seja atualizado dinamicamente para "Avariado" e o motivo da denúncia fique visível para a equipa de manutenção.
+- Este projeto consiste no desenvolvimento de uma aplicação web para a gestão e consulta de um inventário de computadores de uma sala informática. A aplicação foi desenhada para permitir não só a consulta detalhada das especificações técnicas e do software de cada equipamento, mas também para oferecer um canal direto de denúncia de avarias.
+- Desta forma, qualquer utilizador pode reportar problemas técnicos (hardware, software ou rede), permitindo que o estado do computador seja atualizado dinamicamente para "Avariado" e o motivo da denúncia fique visível para a equipa de manutenção.
 
 ---
 
 ## 🧱 Estrutura Geral do Projeto
-Descrição sucinta da estrutura do projeto, por exemplo:
-- Organização das pastas;
-- Ficheiros principais (index.php, ligação à base de dados, páginas de detalhe, etc.);
-- Estrutura geral da base de dados.
+- Ficheiro central de ligação à base de dados via PDO.
+- Listagem geral com filtros por sala e pesquisa.
+- Visualização detalhada de cada computador, incluindo estado operacional e software.
+- Formulário para reporte de problemas técnicos.
+- Painel estatístico com gráficos sobre a distribuição de equipamentos.
+- Composta por tabelas relacionadas (salas, computadores, software, avarias).
 
 ---
 
