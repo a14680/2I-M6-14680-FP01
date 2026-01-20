@@ -9,9 +9,8 @@
 ---
 
 ## 🎯 Objetivo do Projeto
-Este projeto consiste no desenvolvimento de uma aplicação web para gestão e consulta de um inventário de computadores de uma sala informática, utilizando PHP para a lógica da aplicação e SQL para a base de dados.
-
-A aplicação permite consultar informações técnicas dos computadores e o software instalado em cada equipamento.
+Este projeto consiste no desenvolvimento de uma aplicação web para a gestão e consulta de um inventário de computadores de uma sala informática. A aplicação foi desenhada para permitir não só a consulta detalhada das especificações técnicas e do software de cada equipamento, mas também para oferecer um canal direto de denúncia de avarias.
+Desta forma, qualquer utilizador pode reportar problemas técnicos (hardware, software ou rede), permitindo que o estado do computador seja atualizado dinamicamente para "Avariado" e o motivo da denúncia fique visível para a equipa de manutenção.
 
 ---
 
@@ -32,10 +31,10 @@ Lista das funcionalidades que foram efetivamente implementadas no projeto:
 - [X] Consulta do software instalado
 - [X] Página de detalhe por computador
 - [X] Pesquisa por nome de computador
-- [ ] Pesquisa por software
-- [ ] Organização do dashboard
-- [ ] Melhorias visuais no interface (cores, layout, ícones)
-- [ ] Outras funcionalidades (especificar):
+- [X] Pesquisa por software
+- [X] Organização do dashboard
+- [X] Melhorias visuais no interface (cores, layout, ícones)
+- [X] Outras funcionalidades (especificar):
 
 ---
 
@@ -51,13 +50,11 @@ Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no
 - Melhoria do interface gráfico (CSS / layout)  
 - Implementação da funcionalidade de pesquisa  
 - Organização do dashboard  
-- Resolução de erros ou problemas técnicos  
 
 ### 🔹 Como utilizei a IA
-Descrição breve do tipo de apoio recebido, por exemplo:
-- A IA sugeriu exemplos de código que foram adaptados;
-- Ajudou a compreender erros e respetivas correções;
-- Sugeriu melhorias visuais ou estruturais.
+A IA foi a base para a construção visual da aplicação, transformando um código simples numa interface profissional.
+Tive ajuda no SQL para garantir que a base de dados de denúncias comunicava corretamente com a tabela de computadores.
+As sugestões da IA serviram como um ponto de partida que foi depois adaptado e personalizado para as necessidades específicas da sala informática.
 
 ---
 
