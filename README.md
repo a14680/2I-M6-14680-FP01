@@ -32,7 +32,7 @@ Lista das funcionalidades que foram efetivamente implementadas no projeto:
 - [X] Visualização das características técnicas de cada computador
 - [X] Consulta do software instalado
 - [X] Página de detalhe por computador
-- [X] Pesquisa por nome de computador
+- [ ] Pesquisa por nome de computador
 - [X] Pesquisa por software
 - [X] Organização do dashboard
 - [X] Melhorias visuais no interface (cores, layout, ícones)
