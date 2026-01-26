@@ -85,4 +85,5 @@ Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
 
 ## 🔗 Repositório GitHub
 Link para o repositório do projeto:
+https://a14680-oficina.infinityfree.me/m6-inventario/
 
